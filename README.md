@@ -48,7 +48,7 @@ The flag indicates the country where the company's headquarters are located.
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
 - ![us](https://check-host.net/images/flags/us.png) Fastly
 
-## DNS servers (domain records management etc)
+## Authoritative DNS (domain records management etc)
 - ![si](https://check-host.net/images/flags/si.png) bunny.net
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
