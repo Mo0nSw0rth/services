@@ -55,4 +55,3 @@ The flag indicates the country where the company's headquarters are located.
 ## VPS/VDS hosters
 - ![fr](https://check-host.net/images/flags/fr.png) OVHCloud
 - ![us](https://check-host.net/images/flags/us.png) DigitalOcean
-- ![de](https://check-host.net/images/flags/de.png) Contabo (cheap VPS, but no DDoS protection)
