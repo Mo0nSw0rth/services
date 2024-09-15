@@ -17,8 +17,8 @@ The flag indicates the country where the company's headquarters are located.
 
 ## VPNs
 - ![ch](https://check-host.net/images/flags/ch.png) Proton VPN (both paid & free versions)
-- ![nl](https://check-host.net/images/flags/nl.png) Surfshark
 - ![pa](https://check-host.net/images/flags/pa.png) NordVPN
+- ![nl](https://check-host.net/images/flags/nl.png) Surfshark
 
 ## Personal cloud storage
 - ![ch](https://check-host.net/images/flags/ch.png) pCloud
@@ -46,7 +46,6 @@ The flag indicates the country where the company's headquarters are located.
 ## Content Delivery Networks
 - ![si](https://check-host.net/images/flags/si.png) bunny.net
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
-- ![us](https://check-host.net/images/flags/us.png) Fastly
 
 ## Authoritative DNS (domain records management etc)
 - ![si](https://check-host.net/images/flags/si.png) bunny.net
@@ -55,3 +54,5 @@ The flag indicates the country where the company's headquarters are located.
 ## VPS/VDS hosters
 - ![fr](https://check-host.net/images/flags/fr.png) OVHCloud
 - ![us](https://check-host.net/images/flags/us.png) DigitalOcean
+- ![us](https://check-host.net/images/flags/us.png) Vultr
+
