@@ -5,7 +5,7 @@ The flag indicates the country where the company's headquarters are located.
 
 ## Browsers
 - ![us](https://check-host.net/images/flags/us.png) Firefox
-
+- ![no](https://check-host.net/images/flags/no.png) Vivaldi
 ## AD blockers
 - ![ca](https://check-host.net/images/flags/ca.png) uBlock Origin
 - ![bg](https://check-host.net/images/flags/bg.png) Adblocker Ultimate
@@ -16,8 +16,8 @@ The flag indicates the country where the company's headquarters are located.
 - ![us](https://check-host.net/images/flags/us.png) Bitwarden
 
 ## VPNs
-- ![ch](https://check-host.net/images/flags/ch.png) Proton VPN (both paid & free versions)
 - ![pa](https://check-host.net/images/flags/pa.png) NordVPN
+- ![ch](https://check-host.net/images/flags/ch.png) Proton VPN
 - ![nl](https://check-host.net/images/flags/nl.png) Surfshark
 
 ## Personal cloud storage
@@ -29,22 +29,24 @@ The flag indicates the country where the company's headquarters are located.
 - ![ru](https://check-host.net/images/flags/ru.png) Kaspersky
 - ![ro](https://check-host.net/images/flags/ro.png) Bitdefender
 
-## Email clients
+## Email providers
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Mail
-- ![us](https://check-host.net/images/flags/us.png) Thunderbird
 
 ## DNS resolvers (for home etc)
-- ![ch](https://check-host.net/images/flags/ch.png) Quad9 (9.9.9.9)
-- ![us](https://check-host.net/images/flags/us.png) Cloudflare (1.1.1.1)
+- ![ch](https://check-host.net/images/flags/ch.png) Quad9
+- ![fr](https://check-host.net/images/flags/ch.png) Dns0
+- ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 <hr>
 
 ## Website protections
+- ![us](https://check-host.net/images/flags/us.png) Fastly
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 ## Content Delivery Networks
 - ![si](https://check-host.net/images/flags/si.png) bunny.net
+- ![us](https://check-host.net/images/flags/us.png) Fastly
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
 
 ## Authoritative DNS (domain records management etc)
@@ -52,6 +54,7 @@ The flag indicates the country where the company's headquarters are located.
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 ## VPS/VDS hosters
+- ![fi](https://check-host.net/images/flags/fi.png) UpCloud
 - ![fr](https://check-host.net/images/flags/fr.png) OVHCloud
 - ![us](https://check-host.net/images/flags/us.png) DigitalOcean
 - ![us](https://check-host.net/images/flags/us.png) Vultr
