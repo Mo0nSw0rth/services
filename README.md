@@ -34,7 +34,7 @@ The flag indicates the country where the company's headquarters are located.
 
 ## DNS resolvers (for home etc)
 - ![ch](https://check-host.net/images/flags/ch.png) Quad9
-- ![fr](https://check-host.net/images/flags/ch.png) Dns0
+- ![fr](https://check-host.net/images/flags/fr.png) Dns0
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 <hr>
@@ -45,12 +45,12 @@ The flag indicates the country where the company's headquarters are located.
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 ## Content Delivery Networks
-- ![si](https://check-host.net/images/flags/si.png) bunny.net
+- ![si](https://check-host.net/images/flags/si.png) Bunny.net
 - ![us](https://check-host.net/images/flags/us.png) Fastly
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
 
 ## Authoritative DNS (domain records management etc)
-- ![si](https://check-host.net/images/flags/si.png) bunny.net
+- ![si](https://check-host.net/images/flags/si.png) Bunny.net
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 ## VPS/VDS hosters
