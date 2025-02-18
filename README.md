@@ -4,16 +4,17 @@ The flag indicates the country where the company's headquarters are located.
 
 
 ## Browsers
+- Librewolf
 - ![us](https://check-host.net/images/flags/us.png) Firefox
-- ![no](https://check-host.net/images/flags/no.png) Vivaldi
+
 ## AD blockers
 - ![ca](https://check-host.net/images/flags/ca.png) uBlock Origin
-- ![bg](https://check-host.net/images/flags/bg.png) Adblocker Ultimate
 - ![us](https://check-host.net/images/flags/us.png) Privacy Badger
+- ![bg](https://check-host.net/images/flags/bg.png) Adblocker Ultimate
 
 ## Password managers
+- ![ch](https://check-host.net/images/flags/ch.png) Proton Pass
 - ![ca](https://check-host.net/images/flags/ca.png) 1Password
-- ![us](https://check-host.net/images/flags/us.png) Bitwarden
 
 ## VPNs
 - ![pa](https://check-host.net/images/flags/pa.png) NordVPN
@@ -21,13 +22,12 @@ The flag indicates the country where the company's headquarters are located.
 - ![nl](https://check-host.net/images/flags/nl.png) Surfshark
 
 ## Personal cloud storage
-- ![ch](https://check-host.net/images/flags/ch.png) pCloud
-- ![us](https://check-host.net/images/flags/us.png) Google
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Drive
+- ![ch](https://check-host.net/images/flags/ch.png) pCloud
 
 ## Antiviruses
 - ![ru](https://check-host.net/images/flags/ru.png) Kaspersky
-- ![ro](https://check-host.net/images/flags/ro.png) Bitdefender
+- ![us](https://check-host.net/images/flags/us.png) Malwarebytes
 
 ## Email providers
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Mail
