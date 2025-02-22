@@ -3,10 +3,14 @@ Recommendations based on my daily use or previous good experience either in ever
 The flag indicates the country where the company's headquarters are located.
 
 
-## Browsers
-- Librewolf
+## Mobile browsers
 - ![us](https://check-host.net/images/flags/us.png) Firefox
+- ![xx](https://check-host.net/images/flags/xx.png) Cromite
 
+## Desktop browsers
+- ![xx](https://check-host.net/images/flags/xx.png) Librewolf
+- ![us](https://check-host.net/images/flags/us.png) Firefox
+ 
 ## AD blockers
 - ![ca](https://check-host.net/images/flags/ca.png) uBlock Origin
 - ![us](https://check-host.net/images/flags/us.png) Privacy Badger
@@ -19,7 +23,6 @@ The flag indicates the country where the company's headquarters are located.
 ## VPNs
 - ![pa](https://check-host.net/images/flags/pa.png) NordVPN
 - ![ch](https://check-host.net/images/flags/ch.png) Proton VPN
-- ![nl](https://check-host.net/images/flags/nl.png) Surfshark
 
 ## Personal cloud storage
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Drive
@@ -32,11 +35,16 @@ The flag indicates the country where the company's headquarters are located.
 ## Email providers
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Mail
 
-## DNS resolvers (for home etc)
+## Instant messaging
+- ![ch](https://check-host.net/images/flags/ch.png) Session
+
+## Encrypted DNS
 - ![ch](https://check-host.net/images/flags/ch.png) Quad9
 - ![fr](https://check-host.net/images/flags/fr.png) Dns0
-- ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
+## Search engine
+- ![nl](https://check-host.net/images/flags/nl.png) Startpage
+- 
 <hr>
 
 ## Website protections
@@ -49,7 +57,7 @@ The flag indicates the country where the company's headquarters are located.
 - ![us](https://check-host.net/images/flags/us.png) Fastly
 - ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
 
-## Authoritative DNS (domain records management etc)
+## Authoritative DNS
 - ![si](https://check-host.net/images/flags/si.png) Bunny.net
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
