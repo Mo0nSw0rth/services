@@ -3,15 +3,21 @@ Recommendations based on my daily use or previous good experience either in ever
 The flag indicates the country where the company's headquarters are located.
 
 
+## VPNs
+- ![vg](https://check-host.net/images/flags/vg.png) Express VPN
+- ![ch](https://check-host.net/images/flags/ch.png) Proton VPN
+- ![pa](https://check-host.net/images/flags/pa.png) NordVPN
+
 ## Mobile browsers
 - ![us](https://check-host.net/images/flags/us.png) Firefox
 - ![xx](https://check-host.net/images/flags/xx.png) Cromite
 
 ## Desktop browsers
+- ![us](https://check-host.net/images/flags/us.png) Brave
 - ![xx](https://check-host.net/images/flags/xx.png) Librewolf
 - ![us](https://check-host.net/images/flags/us.png) Firefox
  
-## AD blockers
+## AD blockers & other tools
 - ![ca](https://check-host.net/images/flags/ca.png) uBlock Origin
 - ![us](https://check-host.net/images/flags/us.png) Privacy Badger
 - ![bg](https://check-host.net/images/flags/bg.png) Adblocker Ultimate
@@ -20,15 +26,12 @@ The flag indicates the country where the company's headquarters are located.
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Pass
 - ![ca](https://check-host.net/images/flags/ca.png) 1Password
 
-## VPNs
-- ![pa](https://check-host.net/images/flags/pa.png) NordVPN
-- ![ch](https://check-host.net/images/flags/ch.png) Proton VPN
-
 ## Personal cloud storage
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Drive
 - ![ch](https://check-host.net/images/flags/ch.png) pCloud
 
 ## Antiviruses
+- ![ro](https://check-host.net/images/flags/ro.png) Bitdefender
 - ![ru](https://check-host.net/images/flags/ru.png) Kaspersky
 - ![us](https://check-host.net/images/flags/us.png) Malwarebytes
 
@@ -44,12 +47,11 @@ The flag indicates the country where the company's headquarters are located.
 
 ## Search engine
 - ![nl](https://check-host.net/images/flags/nl.png) Startpage
-- 
 <hr>
 
 ## Website protections
 - ![us](https://check-host.net/images/flags/us.png) Fastly
-- ![us](https://check-host.net/images/flags/us.png) AWS Cloudfront
+- ![si](https://check-host.net/images/flags/si.png) Bunny.net
 - ![us](https://check-host.net/images/flags/us.png) Cloudflare
 
 ## Content Delivery Networks
