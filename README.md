@@ -4,18 +4,18 @@ The flag indicates the country where the company's headquarters are located.
 
 
 ## VPNs
-- ![vg](https://check-host.net/images/flags/vg.png) Express VPN
+- ![gi](https://check-host.net/images/flags/gi.png) IVPN
+- ![se](https://check-host.net/images/flags/se.png) Mullvad
 - ![ch](https://check-host.net/images/flags/ch.png) Proton VPN
-- ![pa](https://check-host.net/images/flags/pa.png) NordVPN
 
 ## Mobile browsers
 - ![us](https://check-host.net/images/flags/us.png) Firefox
 - ![xx](https://check-host.net/images/flags/xx.png) Cromite
 
 ## Desktop browsers
-- ![us](https://check-host.net/images/flags/us.png) Brave
-- ![xx](https://check-host.net/images/flags/xx.png) Librewolf
 - ![us](https://check-host.net/images/flags/us.png) Firefox
+- ![xx](https://check-host.net/images/flags/xx.png) Librewolf
+- ![us](https://check-host.net/images/flags/us.png) Brave
  
 ## AD blockers & other tools
 - ![ca](https://check-host.net/images/flags/ca.png) uBlock Origin
@@ -33,10 +33,11 @@ The flag indicates the country where the company's headquarters are located.
 ## Antiviruses
 - ![ro](https://check-host.net/images/flags/ro.png) Bitdefender
 - ![ru](https://check-host.net/images/flags/ru.png) Kaspersky
-- ![us](https://check-host.net/images/flags/us.png) Malwarebytes
 
 ## Email providers
 - ![ch](https://check-host.net/images/flags/ch.png) Proton Mail
+- ![de](https://check-host.net/images/flags/de.png) Tuta Mail
+
 
 ## Instant messaging
 - ![ch](https://check-host.net/images/flags/ch.png) Session
